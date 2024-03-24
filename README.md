@@ -1,15 +1,4 @@
 # Desafio Tecnico Digital Aligner
 Infelizmente o projeto não esta linkado a APIDog pos a mesma estava dando erro por motivos desconhecidos.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para logar use o email: admin@admin.com e a senha admin
