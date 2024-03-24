@@ -1,6 +1,5 @@
-# flutter_aplication1
-
-A new Flutter project.
+# Desafio Tecnico Digital Aligner
+Infelizmente o projeto não esta linkado a APIDog pos a mesma estava dando erro por motivos desconhecidos.
 
 ## Getting Started
 
